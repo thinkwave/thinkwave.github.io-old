@@ -16,7 +16,7 @@ git commit -m '$1'
 
 # https://<USERNAME>.github.io 에 배포하는 경우
 # git push -f https://github.com/<USERNAME>/<USERNAME>.github.io.git master
-git push -f https://github.com/thinkwave/thinkwave.github.io.git master
+git push -f https://github.com/thinkwave/thinkwave.github.io.git main
 
 # https://<USERNAME>.github.io/<REPO> 에 배포하는 경우
 # git push -f https://github.com/<USERNAME>/<REPO>.git master:gh-pages
